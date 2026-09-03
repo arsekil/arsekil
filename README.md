@@ -14,30 +14,6 @@
 3. [RPGTK4](https://www.github.com/arsekil/rpgtk4): An RPG game maker toolkit originally created by CBM, now matured to version 4
 4. [RPGTK Website](https://www.github.com/arsekil/rpgtk_web): Re-creating the official website for the RPGToolkit application and it's community
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/arsekil/arsekil/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arsekil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsekil&theme=tokyonight&hide_border=false" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsekil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsekil&theme=tokyo-night" />
-  </div>
-</details>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=arsekil)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=arsekil&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/arsekil"
-    width="600"
-    height="120"
-  />
-</a>
-  
-[![roadmap.sh](https://roadmap.sh/card/tall/673ce8ca5434bf319a94298c?variant=dark&roadmaps=frontend%3Fr%3Dfrontend-beginner%2Cbackend%3Fr%3Dbackend-beginner%2Cdevops%3Fr%3Ddevops-beginner)](https://roadmap.sh)
-
-
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
