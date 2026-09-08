@@ -12,7 +12,7 @@
 1. [QA Learning](https://github.com/arsekil/qa-learning): Learning on my own to have a certification as Quality Assurance Engineer in the probabilitistic future
 2. [Tool Lending Library](https://www.github.com/arsekil/tool_lending_library): A ServiceNow Application made in my won PDI for the #BuildWithBuildAgent challenge
 3. [RPGTK4](https://www.github.com/arsekil/rpgtk4): An RPG game maker toolkit originally created by CBM, now matured to version 4
-4. [RPGTK Website](https://www.github.com/arsekil/rpgtk_web): Re-creating the official website for the RPGToolkit application and it's community
+4. [RPGTK Website](https://www.github.com/arsekil/rpgtkweb-vite): Re-creating the official website for the RPGToolkit application and it's community
 
 <!--
 **andrejmoltok/andrejmoltok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
