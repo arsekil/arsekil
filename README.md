@@ -2,7 +2,7 @@
 
 - 🎆: I’m a Junior Javascript Developer, studied at [NIX](https://nixstech.com), Budapest, in their 4 month intensive course.
 - 🔭 POSTPONED: I’m currently working on `Hungarian Wesnoth Community Fan Portal`, a battleship clone game called `Oceans5` and my very own play-by-post FRPG called `Envoys Reborn` :POSTPONED
-- 🌱 I’m currently learning `HTML`,`CSS`,`JavaScript`, `React`, `Redux`, `Typescript` & currently preparing for `ServiceNow CSA`
+- 🌱 I’m have learnt and applied `HTML`,`CSS`,`JavaScript`, `React`, `Redux`, `Typescript` in different projects & currently preparing for `ServiceNow CSA`
 - 👯 I’m looking to collaborate on Open-Source Javascript projects
 - 📫 How to reach me: csokan.palandras@gmail.com or ciocanpa87@gmail.com
 - ⚡ Fun facts:
